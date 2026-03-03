@@ -25,3 +25,4 @@ It helps businesses track:
 🔄 Power Query – Data transformation
 
 🧮 Data Modeling – Relationship management
+ This is my example of my own dashboard (
