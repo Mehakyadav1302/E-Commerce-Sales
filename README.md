@@ -25,4 +25,4 @@ It helps businesses track:
 🔄 Power Query – Data transformation
 
 🧮 Data Modeling – Relationship management
- This is my example of my own dashboard (
+ This is my example of my own dashboard (https://github.com/Mehakyadav1302/E-Commerce-Sales/blob/main/E-Commerce%20Dashboard%20Overview.png )
